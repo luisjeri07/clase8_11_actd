@@ -1,0 +1,31 @@
+[33mcommit cf37e5fb79130dd4b3dbacd84c421a8914abded8[m[33m ([m[1;36mHEAD -> [m[1;32mviz-soi[m[33m)[m
+Author: luisjeri07 <l.jeri@uniandes.edu.co>
+Date:   Mon Nov 7 20:11:52 2022 -0500
+
+    Commit adicional en una nueva rama
+
+[33mcommit f3a60fda4cc2164301a0ca76cc83dd9dec8d55eb[m[33m ([m[1;32mmaster[m[33m)[m
+Author: luisjeri07 <l.jeri@uniandes.edu.co>
+Date:   Thu Nov 3 16:37:20 2022 -0500
+
+    Nuevos archivos
+
+[33mcommit 4950e2d1594273c2ffbfc8e68ab54642dc971639[m
+Author: luisjeri07 <l.jeri@uniandes.edu.co>
+Date:   Thu Nov 3 16:15:33 2022 -0500
+
+    Deshacer
+    
+    This reverts commit 251cdf9226d374051ba10ef8c3acf6d825d2d250.
+
+[33mcommit 251cdf9226d374051ba10ef8c3acf6d825d2d250[m
+Author: luisjeri07 <l.jeri@uniandes.edu.co>
+Date:   Thu Nov 3 15:58:23 2022 -0500
+
+    Segundo commit modificación Luis
+
+[33mcommit ab2ea383088276d8dddd93dfc0ea407d2a5bc88b[m
+Author: luisjeri07 <l.jeri@uniandes.edu.co>
+Date:   Thu Nov 3 15:50:18 2022 -0500
+
+    Primer commit de Luis
